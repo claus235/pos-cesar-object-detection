@@ -18,6 +18,7 @@ Este projeto é parte da disciplina de "RNA e Deep Learning" do curso de Pós Gr
 - Facilitar a identificação de áreas de risco para ciclistas e planejamento de rotas mais seguras.
 
 
+------- Daqui para baixo será feito ------- 
 
 ## Performance
 
