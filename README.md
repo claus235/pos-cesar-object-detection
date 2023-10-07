@@ -4,7 +4,7 @@
 
 |**Tipo de Projeto**|**Modelo Selecionado**|**Linguagem**|
 |--|--|--|
-|Classificação de Imagens<br>ou<br>Deteção de Objetos|ex.: YOLOv5|PyTorch ou Tensorflow|
+|Deteção de Objetos|ex.: YOLOv5|Tensorflow|
 
 ## Performance
 
@@ -29,9 +29,7 @@ Exemplo de adição de imagem:
 
 ## Roboflow
 
-Nessa seção deve colocar o link para acessar o dataset no Roboflow
-
-Exemplo de link: [Nome do link](google.com)
+[https://app.roboflow.com/pessoal-kh5qm/detectar-perigo-em-ciclofaixas/](https://app.roboflow.com/pessoal-kh5qm/detectar-perigo-em-ciclofaixas/) 
 
 ## HuggingFace
 
