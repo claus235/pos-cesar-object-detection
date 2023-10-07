@@ -1,10 +1,23 @@
 # Projeto Final - Modelos Preditivos Conexionistas
 
-### Nome do aluno
+### Aluno: Cláusio Tibério Teixeira Barbosa
 
+### Projeto
 |**Tipo de Projeto**|**Modelo Selecionado**|**Linguagem**|
 |--|--|--|
 |Deteção de Objetos|ex.: YOLOv5|Tensorflow|
+
+## Visão Geral
+Este projeto é parte da disciplina de "RNA e Deep Learning" do curso de Pós Graduação em Engenharia e Análise de Dados do CESAR e tem como objetivo desenvolver um sistema de detecção de bueiros e buracos em ciclofaixas usando técnicas avançadas de Deep Learning. A motivação por trás desse projeto é aumentar a segurança dos ciclistas, identificando antecipadamente os obstáculos potenciais que eles podem encontrar ao pedalar em ciclofaixas urbanas. 
+
+![Imagem](https://even3.blob.core.windows.net/clausio/Imagem-ParaGit.png)
+
+### Funcionalidades Principais
+- Detectar automaticamente bueiros e buracos em imagens capturadas pelo StreetView.
+- Gerar marcadores visuais ou alertas para indicar a presença de obstáculos.
+- Facilitar a identificação de áreas de risco para ciclistas e planejamento de rotas mais seguras.
+
+
 
 ## Performance
 
