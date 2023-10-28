@@ -10,7 +10,8 @@
 ## Visão Geral
 Este projeto é parte da disciplina de "RNA e Deep Learning" do curso de Pós Graduação em Engenharia e Análise de Dados do CESAR e tem como objetivo desenvolver um sistema de detecção de bueiros e buracos em ciclofaixas usando técnicas avançadas de Deep Learning. A motivação por trás desse projeto é aumentar a segurança dos ciclistas, identificando antecipadamente os obstáculos potenciais que eles podem encontrar ao pedalar em ciclofaixas urbanas. 
 
-![Imagem](https://even3.blob.core.windows.net/clausio/Imagem-ParaGit.png)
+<img width="920" alt="image" src="https://github.com/claus235/pos-cesar-object-detection/assets/12860665/a0d8263c-b9d8-41d6-b1b6-4c2e7fe32de7">
+
 
 ### Funcionalidades Principais
 - Detectar automaticamente bueiros e buracos em imagens capturadas pelo StreetView.
