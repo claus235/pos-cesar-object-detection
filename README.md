@@ -18,11 +18,22 @@ Este projeto é parte da disciplina de "RNA e Deep Learning" do curso de Pós Gr
 - Facilitar a identificação de áreas de risco para ciclistas e planejamento de rotas mais seguras.
 
 
-------- Daqui para baixo será feito ------- 
-
 ## Performance
 
-O modelo treinado possui performance de **??%**.
+O modelo treinado possui performance de **47%**.
+
+<img width="436" alt="image" src="https://github.com/claus235/pos-cesar-object-detection/assets/12860665/82479843-8c66-4aa1-9eae-42fc757a01fa">
+
+
+As duas classes são:
+
+|**Classe**|**Acurácia**|
+|--|--|
+|Bueiro|82%|
+|Buraco|10%|
+
+
+Acredito que o principal problema reside na quantidade de imagens que contêm buracos. Além disso, os buracos apresentam uma considerável variedade, tornando necessário aprimorar a análise do algoritmo.
 
 ### Output do bloco de treinamento
 
@@ -36,10 +47,20 @@ O modelo treinado possui performance de **??%**.
 
 ### Evidências do treinamento
 
-Nessa seção você deve colocar qualquer evidência do treinamento, como por exemplo gráficos de perda, performance, matriz de confusão etc.
+Matriz de Confusão:
+
+<img width="647" alt="image" src="https://github.com/claus235/pos-cesar-object-detection/assets/12860665/f167f5f1-7c1a-4e2d-8a66-96f36702454d">
 
 Exemplo de adição de imagem:
-![Descrição](https://picsum.photos/seed/picsum/500/300)
+
+<img width="935" alt="image" src="https://github.com/claus235/pos-cesar-object-detection/assets/12860665/b91cf21d-0d49-4d3a-8b64-88b76cecedb8">
+
+Exemplo de adição de imagem:
+<img width="1036" alt="image" src="https://github.com/claus235/pos-cesar-object-detection/assets/12860665/4fa5b840-14ba-4633-a26a-ff56776cfafd">
+
+Exemplo de adição de imagem:
+<img width="1043" alt="image" src="https://github.com/claus235/pos-cesar-object-detection/assets/12860665/399322db-c011-442e-9756-e9960d0104a4">
+
 
 ## Roboflow
 
