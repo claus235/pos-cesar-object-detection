@@ -67,6 +67,3 @@ Exemplo de adição de imagem:
 
 [https://app.roboflow.com/pessoal-kh5qm/detectar-perigo-em-ciclofaixas/](https://app.roboflow.com/pessoal-kh5qm/detectar-perigo-em-ciclofaixas/) 
 
-## HuggingFace
-
-Nessa seção você deve publicar o link para o HuggingFace
