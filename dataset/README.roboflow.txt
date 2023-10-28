@@ -1,8 +1,8 @@
 
-Detectar perigo em Ciclofaixas - v3 2023-10-23 1:24pm
+Detectar perigo em Ciclofaixas - v5 2023-10-24 1:56pm
 ==============================
 
-This dataset was exported via roboflow.com on October 23, 2023 at 4:25 PM GMT
+This dataset was exported via roboflow.com on October 24, 2023 at 5:00 PM GMT
 
 Roboflow is an end-to-end computer vision platform that helps you
 * collaborate with your team on computer vision projects
@@ -17,13 +17,20 @@ visit https://github.com/roboflow/notebooks
 
 To find over 100k other datasets and pre-trained models, visit https://universe.roboflow.com
 
-The dataset includes 102 images.
+The dataset includes 322 images.
 Buracos are annotated in YOLOv8 format.
 
 The following pre-processing was applied to each image:
 * Auto-orientation of pixel data (with EXIF-orientation stripping)
 * Resize to 640x640 (Stretch)
 
-No image augmentation techniques were applied.
+The following augmentation was applied to create 3 versions of each source image:
+* 50% probability of horizontal flip
+* Equal probability of one of the following 90-degree rotations: none, clockwise, counter-clockwise
+* Random rotation of between -15 and +15 degrees
+* Random shear of between -15° to +15° horizontally and -15° to +15° vertically
+
+The following transformations were applied to the bounding boxes of each image:
+* 50% probability of horizontal flip
 
 
